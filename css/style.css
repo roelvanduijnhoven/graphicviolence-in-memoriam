@@ -12,10 +12,10 @@ img {border: 0;}
 .floatright {float:right;}
 p {line-height:150%;}
 
-#container {width:820px; margin:72px auto 50px auto; background:url(/web/20180531132331im_/http://graphicviolence.nl/images/shadow.png) repeat-y; min-height:100%; position:relative;}
+#container {width:820px; margin:72px auto 50px auto; min-height:100%; position:relative;}
 
 /* top */
-#top {width:820px; background:url(images/top.jpg) no-repeat top center; margin:0 auto; height:690px; position:relative;}
+#top {width:820px; background:url(../images/top.jpg) no-repeat top center; margin:0 auto; height:690px; position:relative;}
 #top h1 {text-transform:uppercase; color:#000; font-size:26px; font-weight:normal; text-align:center; padding:595px 0 0 0;}
 #top h5 {text-transform:uppercase; color:#808080; font-size:18px; font-weight:normal; text-align:center;}
 #header #logo {position:absolute; top:20px; left:10px;}
