@@ -1,0 +1,38 @@
+body {background:#FFF; height:100%; text-align:center; color:#737373; font-family:Lucida Grande, Arial, Verdana, sans-serif; font-size:12px;}
+
+/* reset */
+html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldset, table, th, td {margin: 0; padding: 0;}
+
+/* clear float */
+.clear {clear:both; height:0; font-size:1px; line-height:0px;}
+
+/* common styles */
+img {border: 0;}
+.floatleft {float:left;}
+.floatright {float:right;}
+p {line-height:150%;}
+
+#container {width:820px; margin:72px auto 50px auto; background:url(/web/20180531132331im_/http://graphicviolence.nl/images/shadow.png) repeat-y; min-height:100%; position:relative;}
+
+/* top */
+#top {width:820px; background:url(images/top.jpg) no-repeat top center; margin:0 auto; height:690px; position:relative;}
+#top h1 {text-transform:uppercase; color:#000; font-size:26px; font-weight:normal; text-align:center; padding:595px 0 0 0;}
+#top h5 {text-transform:uppercase; color:#808080; font-size:18px; font-weight:normal; text-align:center;}
+#header #logo {position:absolute; top:20px; left:10px;}
+
+/* content */
+#content {width:500px; text-align:center; margin:0 auto; padding:10px 0 55px 0;}
+#content p {font-family: Lucida Grande, Tahoma, Arial, Verdana;}
+
+/* bottom */
+#bottom h4 {font-size:18px; color:#000; font-weight:normal; text-transform:uppercase; text-align:center; letter-spacing:2px; padding:0 0 45px 0;}
+#bottom .column {margin-bottom: 40px; float:left; width:240px; margin-right:50px;}
+#bottom .column h3 {font-size:14px; font-weight:bold; color:#011c26; padding:0 0 20px 0;}
+#bottom .column h3 span {font-size:12px; font-weight:normal; display:block; padding-top:4px;}
+#bottom #p3 {margin-right:0;}
+#bottom #p3 span {color:#0084cb;}
+#bottom #p3 a {color: #0084cb; text-decoration: none; font-weight: bold; }
+#bottom #p2 a {color:#871a64; text-decoration: none; font-weight: bold; }
+#bottom #p1 a {color:#00a78e; text-decoration: none; font-weight: bold; ;}
+#bottom #p1 span {color:#00a78e;}
+#bottom #p2 span {color:#871a64;}
