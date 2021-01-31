@@ -1,11 +1,6 @@
 {
-    "name": "roel/graphicviolence-in-memoriam",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Roel van Duijnhoven",
-            "email": "roel@vanduijnhoven.com"
-        }
-    ],
-    "require": {}
+  "require": {
+    "php": "~7.1"
+  }
 }
+
